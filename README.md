@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif?cid=ecf05e47wi76lyflem9fnykg2u9e8l86197or1932hciitzs&rid=giphy.gif&ct=g">
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=grey)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=115787279&left_color=black&right_color=grey)
 
 
 ### :fire: GitHub Stats :
