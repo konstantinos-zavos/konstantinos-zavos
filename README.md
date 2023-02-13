@@ -23,7 +23,7 @@
 - ✉️  You can contact me at hidden@info.gr  
   
 
-- 🔭 I’m currently working on a [Restaurant Page](https://github.com/konstantinos-zavos/restaurant-page) (As of 10/2/2023)   
+- 🔭 I’m currently working on a [This page](https://github.com/konstantinos-zavos)  
   
 
 - ⚡ Fun fact: I have a raiting of [hidden] on  ♟️ [Chess.com](http://chess.com)  
