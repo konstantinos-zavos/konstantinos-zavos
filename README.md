@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Konstantinos, a [hidden information] 👨‍💻 </div>  
+### <div align="center">I'm Konstantinos, Nice to meet you! 👨‍💻 </div>  
   
 
 <div align="center">🚧This page is currently Under Construction 🚧</div>  
